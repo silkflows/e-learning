@@ -22,12 +22,3 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
-Open the local URL shown in the terminal to view the app.
-
-## Scripts
-
-- `npm run dev` - start the development server
-- `npm run build` - create a production build
-- `npm run lint` - check the code with ESLint
-- `npm run preview` - preview the production build
